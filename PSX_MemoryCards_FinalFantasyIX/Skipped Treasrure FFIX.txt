@@ -11,3 +11,15 @@ D2-03 Cleyra's Trunk
   [] Potion          
  -----------------------------------------------------------------------------
   [] Ether              [] 970 Gil
+
+
+
+
+ * Air Racket      [C] on a walkway to the left of the elevator
+
+ * Golem's Flute   [C] on the left side in Odin's Sword's chamber
+ * Mage Staff      [C] on the chandelier in the courtyard
+ * Fork            [C] on the chandelier in the courtyard
+ * Barette         [C] on the terrace reached after solving the door puzzle
+
+ * Ancient Aroma   [R] solve the vase puzzle and pick up the right vase
